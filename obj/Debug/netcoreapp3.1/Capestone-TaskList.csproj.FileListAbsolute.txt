@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.exe
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.deps.json
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.runtimeconfig.json
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.dll
+C:\Users\herri\source\repos\Capestone-TaskList\bin\Debug\netcoreapp3.1\Capestone-TaskList.pdb
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.AssemblyInfo.cs
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.dll
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.pdb
+C:\Users\herri\source\repos\Capestone-TaskList\obj\Debug\netcoreapp3.1\Capestone-TaskList.genruntimeconfig.cache
